@@ -2,6 +2,7 @@ class Settings(object):
     LOG_DIR = "log"
     LOG_RENDERING_PERFORMANCE = False
     LOG_METRIC_ACCESS = False
+    STORAGE_DIR = "/home/phusion/Source/carbon/storage/whisper"
 
     # Cluster settings
     CLUSTER_SERVERS = []
