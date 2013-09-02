@@ -1,0 +1,2 @@
+Twisted==11.1.0
+git+git://github.com/graphite-project/whisper.git#egg=whisper
